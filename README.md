@@ -19,7 +19,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 1. Clone the repository to your local machine.
     ```sh
-    git clone https://github.com/AmanKumar-26/InkSync.git
+    git clone https://github.com/ArunIITR/Collaborative-White-Board-with-Real-Time-Drawing.git
     ```
     
 2. Install the required packages.
